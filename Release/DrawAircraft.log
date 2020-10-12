@@ -1,0 +1,17 @@
+﻿  DrawAircraft.cpp
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(42,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(208,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(208,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(208,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(238,72): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(238,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(238,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(167,22): warning C4101: 'y1': unreferenced local variable
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(167,18): warning C4101: 'x1': unreferenced local variable
+C:\Users\denni\Documents\380\DrawAircraft2\DrawAircraft.cpp(167,26): warning C4101: 'z1': unreferenced local variable
+     Creating library .\Release\64\DrawAircraft.lib and object .\Release\64\DrawAircraft.exp
+  DrawAircraft.vcxproj -> C:\Users\denni\Documents\380\DrawAircraft2\Release\win.xpl
+  C:\Users\denni\Documents\380\DrawAircraft2\Release\win.xpl -> E:\X-Plane 10\Resources\plugins\DrawAircraft.xpl
+  Sharing violation
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: The command "echo F|xcopy "C:\Users\denni\Documents\380\DrawAircraft2\Release\win.xpl" "E:\X-Plane 10\Resources\plugins\DrawAircraft.xpl" /Y /F
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd" exited with code 4.
